@@ -8,6 +8,11 @@
 <title>Chakri Online shopy</title>
 </head>
 <body>
+<style>
+
+}
+
+</style>
 <div class="container">
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
             <!-- Indicators -->
@@ -72,13 +77,14 @@
  </div>
  <hr>
 
-
-
-
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+
+
+
+
 * {
     box-sizing: border-box;
 }
@@ -169,17 +175,6 @@ body {
     <div class="flip-box-back">
       <h2>OFFER</h2>
       <p>80% Discount on all brands</p>
-    </div>
-  </div>
-</div>
-</div>
-</div>
-</div>
-</body>
-</html>
-
-
-
 </div>
 </body>
 </html>
