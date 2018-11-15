@@ -19,7 +19,7 @@
             </ol>
             <div class="carousel-inner" role="listbox">
                 <div class="item active">
-                    <img  src="<c:url value='/resources/images/xc.PNG'></c:url>" alt="first slide" height="600" width="800%">
+                    <img  src="<c:url value='/resources/images/dre.PNG'></c:url>" alt="first slide" height="600" width="800%">
                     <div class="container">
                         <div class="carousel-caption">
                             <h1>WELCOME TO THE ONLINE SHOPPING</h1>
@@ -28,7 +28,7 @@
                     </div>
                 </div>
                 <div class="item">
-                    <img class="img img-circle" src="<c:url value='/resources/images/C.PNG'></c:url>" alt="Second slide" height="100%" width="100%">
+                    <img class="img img-circle" src="<c:url value='/resources/images/ccc.PNG'></c:url>" alt="Second slide" height="100%" width="100%">
                     <div class="container">
                         <div class="carousel-caption">
                             <h1></h1>
